@@ -1,0 +1,27 @@
+{
+  "name": "nodes-js-test-read-write",
+  "version": "1.0.0",
+  "description": "Test repo to learn read and write in nodejs.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jensengbg-jakob-reesalu/nodejs-read-write-files-boilerplate.git"
+  },
+  "keywords": [
+    "nodejs",
+    "read",
+    "write"
+  ],
+  "author": "Jakob Reesalu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jensengbg-jakob-reesalu/nodejs-read-write-files-boilerplate/issues"
+  },
+  "homepage": "https://github.com/jensengbg-jakob-reesalu/nodejs-read-write-files-boilerplate#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
