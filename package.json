@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/jensengbg-jakob-reesalu/nodejs-read-write-files-boilerplate#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
